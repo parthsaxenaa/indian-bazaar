@@ -129,10 +129,9 @@ npm run dev
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Contributors
-
+**Team Name: A721**
 - **Parth Saxena**
 - **Navneet Gupta**
-- **Aakash Gupta**
 - **Vansh**
 
 ---
