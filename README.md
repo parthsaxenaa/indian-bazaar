@@ -9,7 +9,7 @@ A full-stack marketplace connecting street food vendors with raw material suppli
 - MongoDB (local or Atlas)
 - Git
 
-### 1. Clone & Setup
+### 1. Clone & Setup 
 ```bash
 git clone https://github.com/Rajput-xv/indian-bazaar.git
 cd indian-bazaar
